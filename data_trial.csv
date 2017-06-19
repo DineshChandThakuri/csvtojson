@@ -1,0 +1,17 @@
+Item,Parent
+Mouse,Mammal
+Human,Mammal
+Cockroach,Insect
+Dog,Mammal
+Salmon,Fish
+Crab,Crustacean
+Mammal,Vertebrates
+Insect,Arthropods
+Fish,Vertebrates
+Crustacean,Arthropods
+Animal,Null
+Ram,Human
+Shyam,Human
+Plant,Null
+Bacteria,Plant
+Sunflower,Plant
